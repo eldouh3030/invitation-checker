@@ -1,0 +1,11 @@
+rule,evidence
+L1,Official publisher domain (checked against the publisher list)
+L2,Known submission platform with a real journal and a real manuscript
+L3,"Real conference on its own domain or EDAS, about a real paper or with proceedings in IEEE Xplore"
+S1,Uses the name of a known organization or journal from a domain that is not theirs
+S2,"Misleading metric from a known fake metric service (ICV, Cosmos, ISI indexing, SJIF)"
+S3,Publisher is on Beall's list (archived 2017 copy)
+S4,"Documented predatory tactic (one article short, speaker invitation outside the recipient field, identical template from many domains asking for papers, hidden characters to evade filters, 24-hour decision promise)"
+S5,A journal or conference invitation from a free personal mailbox with no official address
+O,"No academic invitation or correspondence (product, service, survey, training, notification)"
+U,Not enough evidence either way
